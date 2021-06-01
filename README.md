@@ -2,7 +2,7 @@
 
 - 👋 Eu sou a @LiviaDevolder;
 - 🤖 Eu sou apaixonada por tecnologia;
-- 🌱 Atualmente eu estou estudando Java;
+- 🌱 Atualmente eu estou estudando Java e JavaScript;
 - 😄 Pronomes: Ela/dela;
 - 🏳️‍🌈 Lésbica;
 - 📫 Como me achar: No Instagram @LiviaDevolder.
