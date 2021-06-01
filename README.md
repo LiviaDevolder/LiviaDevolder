@@ -1,5 +1,11 @@
-### Hi there 👋
+### Olá 👋
 
+- 👋 Eu sou a @LiviaDevolder;
+- 🤖 Eu sou apaixonada por tecnologia;
+- 🌱 Atualmente eu estou estudando Java;
+- 😄 Pronomes: Ela/dela;
+- 🏳️‍🌈 Lésbica;
+- 📫 Como me achar: No Instagram @LiviaDevolder.
 <!--
 **LiviaDevolder/LiviaDevolder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
