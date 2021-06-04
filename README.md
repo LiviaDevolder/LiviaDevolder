@@ -5,7 +5,7 @@
 - 🌱 Atualmente eu estou estudando Java e JavaScript;
 - 😄 Pronomes: Ela/dela;
 - 🏳️‍🌈 Lésbica;
-- 📫 Como me achar: No Instagram @LiviaDevolder.
+- 📫 Como me contatar melhor: No Instagram @LiviaDevolder ou no e-mail: liviadevolder@gmail.com
 <!--
 **LiviaDevolder/LiviaDevolder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
