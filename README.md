@@ -4,8 +4,6 @@
 - 🤖 Eu sou apaixonada por tecnologia;
 - 🌱 Atualmente eu estou estudando JavaScript, TypeScript e Node.js;
 - 😄 Pronomes: Qualquer pronome;
-- 🏳️‍🌈 Lésbica;
-- 📫 Como me contatar melhor: No Instagram @LiviaDevolder ou no e-mail: liviadevolder@gmail.com
 
 ##
   
