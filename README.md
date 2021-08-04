@@ -1,6 +1,5 @@
 ## Olá! Eu sou a Lívia Devolder
 
-- 👋 Eu sou a @LiviaDevolder;
 - 🤖 Eu sou apaixonada por tecnologia;
 - 🌱 Atualmente eu estou estudando JavaScript, TypeScript e Node.js;
 - 😄 Pronomes: Qualquer pronome;
