@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Lívia Devolder
 
 - 🤖 Eu sou apaixonada por tecnologia;
-- 🌱 Atualmente eu estou estudando JavaScript, TypeScript e Node.js;
+- 🌱 Atualmente eu estou estudando JavaScript, TypeScript, Node.js e ReactJs;
 - 😄 Pronomes: Qualquer pronome;
 
 ##
