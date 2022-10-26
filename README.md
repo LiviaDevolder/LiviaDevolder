@@ -2,7 +2,6 @@
 
 - 🤖 Eu sou apaixonada por tecnologia;
 - 🌱 Atualmente eu estou estudando JavaScript, TypeScript, Node.js e ReactJs;
-- 😄 Pronomes: Qualquer pronome;
 
 ##
   
