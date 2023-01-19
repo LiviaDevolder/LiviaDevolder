@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Lívia Devolder
 
 - 🤖 Eu sou apaixonada por tecnologia;
-- 🌱 Atualmente eu estou estudando JavaScript, TypeScript, Node.js e ReactJs;
+- 🌱 Atualmente eu estou estudando NestJs e NextJs;
 
 ##
   
