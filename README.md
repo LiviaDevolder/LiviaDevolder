@@ -1,4 +1,4 @@
-# Lívia Devolder
+# Lívia <DEV>older
 
 **Mid-Level Full-Stack Developer** • Cloud-Native Architecture • AI Integration
 
